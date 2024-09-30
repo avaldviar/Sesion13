@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Burbuja", "Burbuja\Burbuja.csproj", "{C83DF9F3-41D6-4944-B45C-0213ABD59FD5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Registro", "Registro\Registro.csproj", "{D85CFD27-9F81-4AF3-BB29-6B78C3B286DF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C83DF9F3-41D6-4944-B45C-0213ABD59FD5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C83DF9F3-41D6-4944-B45C-0213ABD59FD5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C83DF9F3-41D6-4944-B45C-0213ABD59FD5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C83DF9F3-41D6-4944-B45C-0213ABD59FD5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D85CFD27-9F81-4AF3-BB29-6B78C3B286DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D85CFD27-9F81-4AF3-BB29-6B78C3B286DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D85CFD27-9F81-4AF3-BB29-6B78C3B286DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D85CFD27-9F81-4AF3-BB29-6B78C3B286DF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {734371F8-5BB4-41C1-BE88-60C74EDFD908}
+	EndGlobalSection
+EndGlobal
